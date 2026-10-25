@@ -1,0 +1,47 @@
+{
+    "Random Forest": {
+        "accuracy": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "f1_macro": 1.0,
+        "precision_weighted": 1.0,
+        "recall_weighted": 1.0,
+        "f1_weighted": 1.0
+    },
+    "Support Vector Machine": {
+        "accuracy": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "f1_macro": 1.0,
+        "precision_weighted": 1.0,
+        "recall_weighted": 1.0,
+        "f1_weighted": 1.0
+    },
+    "Decision Tree": {
+        "accuracy": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "f1_macro": 1.0,
+        "precision_weighted": 1.0,
+        "recall_weighted": 1.0,
+        "f1_weighted": 1.0
+    },
+    "Gradient Boosting": {
+        "accuracy": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "f1_macro": 1.0,
+        "precision_weighted": 1.0,
+        "recall_weighted": 1.0,
+        "f1_weighted": 1.0
+    },
+    "1D-CNN (Deep Learning)": {
+        "accuracy": 0.6666666666666666,
+        "precision_macro": 0.5,
+        "recall_macro": 0.6666666666666666,
+        "f1_macro": 0.5555555555555555,
+        "precision_weighted": 0.5,
+        "recall_weighted": 0.6666666666666666,
+        "f1_weighted": 0.5555555555555556
+    }
+}
